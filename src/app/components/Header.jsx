@@ -18,7 +18,8 @@ function Header() {
                 <Link href='/about' className='hover:text-lime-500' >About</Link>
                 <Link href='/solutions' className='hover:text-lime-500' >IT Solutions</Link>
                 <Link href='/cybersecurity' className='hover:text-lime-500' >Cybersecurity</Link>
-                <Link href='/contact' className=' bg-lime-500 p-2 rounded-sm hover:bg-indigo-800 ' >Contact Us</Link>
+                {/* <Link href='/services' className='hover:text-lime-500' >services</Link> */}
+                <Link href='/contact' className=' bg-lime-500 p-2 rounded-sm hover:bg-indigo-800 ' >Contact Us</Link>              
             </div>
         </div>
 
