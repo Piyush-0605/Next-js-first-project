@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 function Hero() {
   return (
-   <div className='bg-blue-900 pt-30 pb-30 text-white  text-center bg-[url(/assets/b1.jpg)] bg-cover bg-center bg-no-repeat h-[600] '>
+   <div className=' pt-30 pb-30 text-white  text-center bg-[url(/assets/home-bnr.jpg)] bg-cover bg-center bg-no-repeat h-[600] '>
      <h2 className='text-7xl font-bold text-center text-lime-400 py-4 shadow-xl'>Cybersecurity & </h2>
      <h2 className='text-7xl font-bold text-center text-white py-4'>IT Solutions</h2>
     

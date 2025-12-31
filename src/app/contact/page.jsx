@@ -9,7 +9,7 @@ import Link from "next/link";
 function page() {
   return (
     <div>
-    <div className='bg-indigo-950 pt-30 pb-50 bg-[url(/assets/About-BG.png)] bg-cover bg-center bg-no-repeat h-[600]  ' >
+    <div className='bg-indigo-950 pt-30 pb-50 bg-[url(/assets/t4.jpg)] bg-cover bg-center bg-no-repeat h-[600]  ' >
         <div className='text-white items-center text-center ' >
             <h2 className='text-lime-600 font-bold text-2xl tracking-wide pb-4'>GET IN TOUCH</h2>
             <span className='w-60  p-1 border-t-4 px-8 border-lime-600'> </span>
@@ -21,7 +21,7 @@ function page() {
             </div>
         </div>
     </div>
-    <div className="bg-[url(/assets/b1.jpg)] bg-cover bg-center bg-no-repeat h-[600]  " >
+    <div className="bg-[url(/assets/t3.jpg)] bg-cover bg-center bg-no-repeat h-[600]  " >
         <div className='flex gap-8 justify-between px-8'>
             <div className='text-white opacity-100 w-[50%] '>
             <h2 className=' opacity-100 py-10 ps-8 font-medium text-5xl'>Get in Touch</h2>

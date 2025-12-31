@@ -6,7 +6,7 @@ import Link from "next/link";
 function page() {
   return (
     <div>
-      <div className='bg-indigo-950 pt-30 pb-50 bg-[url(/assets/About-BG.png)] bg-cover bg-center bg-no-repeat h-[600]  ' >
+      <div className='bg-indigo-950 pt-30 pb-50 bg-[url(/assets/bt2.jpg)] bg-cover bg-center bg-no-repeat h-[600]  ' >
         <div className='text-white items-center text-center ' >
             <h2 className='text-lime-600 font-bold text-3xl tracking-wide pb-4'>Join Us</h2>
             <span className='w-60  p-1 border-t-4 px-4 border-lime-600'> </span>

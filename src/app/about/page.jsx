@@ -23,7 +23,7 @@ function page() {
 
             <div className='flex py-22 px-8  gap-8 flex-row'>
                 <div className='righ-box w-[48%] me-6 '>
-                    <Image src="/assets/about_us.jpg" alt='image'   width={800} height={1200} />
+                    <Image src="/assets/t5.jpg" alt='image'   width={800} height={1200} />
                 </div>
                 <div className="left-box w-[48%]  ">
                     {/* <h2 className='font-bold text-xl pb-5 text-lime-500 ' >About Us</h2>

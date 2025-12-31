@@ -7,7 +7,7 @@ import Link from "next/link";
 function page() {
   return (
     <div>
-      <div className='bg-blue-950 pt-30 pb-50 bg-[url(/assets/con3.jpg)] bg-cover bg-center bg-no-repeat h-[600]' >
+      <div className='bg-blue-950 pt-30 pb-50 bg-[url(/assets/t2.jpg)] bg-cover bg-center bg-no-repeat h-[600]' >
         <div className='text-white items-center text-center pt-10' >
             <h2 className='text-7xl font-bold pb-12'>Cybersecurity Solutions</h2>
             <p className='text-xl pb-12 px-12 text-gray-100' >We redefine cybersecurity with cutting-edge solutions, deploying advanced technologies to detect and neutralize evolving threats in real-time..</p>
